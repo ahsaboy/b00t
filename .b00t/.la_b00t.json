@@ -1,11 +1,1 @@
-{
-  "payload": {
-    "schemaVersion": 1,
-    "configApi": [
-      "https://config.example.com"
-    ],
-    "keyId": "bootstrap-signing-2026-01",
-    "minClientVersion": "1.0.0"
-  },
-  "signature": "MEUCIQD2IzI3JZqwxYuoYB1qM0wJGW4+pV5zFVd/fwocHeofnQIgNuyzdpjESbYwUfHjRjBjk0jn/ulJjt0tgWL7iZezjPA="
-}
+{"payload":{"schemaVersion":1,"configApi":["https://dj.ntfy.xx.kg/la"],"keyId":"bootstrap-signing-2026-01","minClientVersion":"1.0.0"},"signature":"MEQCIGMrI4XQlEbfcPE+Ttbtppp7UvA4b5R4gHN0ziyKXTSMAiA/WcYQE1edpfxW8wA0oFlrzY/fVdFiKGYlDnpfEuHr7g=="}
